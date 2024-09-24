@@ -1,5 +1,6 @@
 👋 **Hi, I'm Sebastián!**  
-I'm a Senior Frontend Developer passionate about building high-performance, scalable, and user-friendly applications. I love solving problems and creating elegant, responsive designs.
+
+With over 5 years of experience as a Senior Frontend Developer, I have a passion for building high-performance, scalable, and user-friendly applications. My journey in development began early on, and I love solving problems while creating elegant, responsive designs.
 
 ### 🚀 **What I do:**
 - **Frontend Development:** Specializing in React, Next.js, and TailwindCSS to build modern, responsive web apps.
