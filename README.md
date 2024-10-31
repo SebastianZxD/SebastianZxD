@@ -4,10 +4,10 @@ With over 5 years of experience as a Frontend Developer, I have a passion for bu
 
 ### 🚀 **What I do:**
 - **Frontend Development:** Specializing in React, Next.js, and TailwindCSS to build modern, responsive web apps.
-- **Progressive Web Apps (PWAs):** Creating apps that deliver a seamless, offline-first experience.
 - **User-Centered Design:** Crafting interfaces that prioritize performance and user experience.
 - **Performance Optimization:** Ensuring fast, smooth, and efficient applications.
 - **Cutting-Edge Technologies:** Constantly exploring new tools and frameworks to stay ahead in the frontend world.
+- **Progressive Web Apps (PWAs):** Creating apps that deliver a seamless, offline-first experience.
 
 ### 💡 **What drives me:**
 - I’m passionate about transforming ideas into beautiful, functional digital experiences.
